@@ -76,3 +76,7 @@ function clearError() {
 }
 
 // Checking git status
+
+// Double checking the git is working
+
+// Triple checking it works
